@@ -86,6 +86,89 @@
         "title": "OpenBootcamp",
         "descripcion": "Canal de YouTube con cursos de programación"
       }
+    ],
+    "Iconos":[
+      {
+        "url": "https://yesicon.app/",
+        "title": "YesIcon",
+        "descripcion": "Galeria de iconos"
+      },
+      {
+        "url": "https://iconify.design/",
+        "title": "Iconify",
+        "descripcion": "Galeria de iconos"
+      },
+      {
+        "url": "https://svgl.app/",
+        "title": "Svgl",
+        "descripcion": "Galeria de iconos"
+      },
+      {
+        "url": "https://tabler.io/icons",
+        "title": "Tabler",
+        "descripcion": "Galeria de iconos"
+      }
+    ],
+    "Practicar":[
+      {
+        "url": "https://devchallenges.io/",
+        "title": "DevChallenges",
+        "descripcion": "Plataforma de ejercicios de programación"
+      },
+      {
+        "url": "https://typehero.dev/",
+        "title": "TypeHero",
+        "descripcion": "Plataforma de ejercicios de programación de TypeScript"
+      },
+      {
+        "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+        "title": "30 Days Of Python",
+        "descripcion": "Plataforma de ejercicios de programación de Python"
+      },
+      {
+        "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+        "title": "30 Days Of JavaScript",
+        "descripcion": "Plataforma de ejercicios de programación de JavaScript"
+      }
+    ],
+    "Componentes":[
+      {
+        "url": "https://magicui.design/",
+        "title": "Magic UI",
+        "descripcion": "Galeria de componentes"
+      },
+      {
+        "url": "https://flyonui.com/",
+        "title": "Flyon UI",
+        "descripcion": "Galeria de componentes"
+      },
+      {
+        "url": "https://ui.shadcn.com/",
+        "title": "Shadcn UI",
+        "descripcion": "Galeria de componentes"
+      },
+      {
+        "url": "https://www.radix-ui.com/",
+        "title": "Radix UI",
+        "descripcion": "Galeria de componentes"
+      },
+      {
+        "url": "https://daisyui.com/",
+        "title": "Daisy UI",
+        "descripcion": "Galeria de componentes"
+      }
+    ],
+    "Optimización imagenes":[
+      {
+        "url": "https://squoosh.app/",
+        "title": "Squoosh",
+        "descripcion": "Optimizador de imágenes"
+      },
+      {
+        "url": "https://imgto.xyz/",
+        "title": "Imgto",
+        "descripcion": "Optimizador de imágenes"
+      }
     ]
   }
   

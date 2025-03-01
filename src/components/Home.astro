@@ -9,11 +9,10 @@ console.log(data)
 
 ---
 
-<div id="container" class="flex flex-wrap justify-center gap-6">
+<div id="container" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 px-4">
     {Object.entries(data).map(([categoria, recursos]) => (
-      <section>
-        <CardCategory title={categoria} path={categoria} />
-      </section>
+      <CardCategory title={categoria} path={categoria} />
     ))}
-</div>
+  </div>
+  
 
