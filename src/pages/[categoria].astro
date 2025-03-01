@@ -1,0 +1,44 @@
+---
+import data from "../../data.json";
+import CardTool from "../components/CardTool.astro";
+
+export function getStaticPaths() {
+    return [
+        {params: {categoria: 'Extensiones'}},
+        {params: {categoria: 'Herramientas'}},
+        {params: {categoria: 'APIs'}},
+        {params: {categoria: 'Documentación'}},
+    ];
+}
+
+const { categoria } = Astro.params;
+const recursos = data[categoria];
+
+
+---
+
+<html>
+  <head>
+    <meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+    <title>{categoria}</title>
+	</head>
+  <body class="bg-gray-900">
+    
+    <header class="flex justify-center items-center mb-6 text-white">
+      <h1 class="text-2xl font-bold">{categoria}</h1>
+    </header>
+      
+     <main class="flex flex-wrap justify-center gap-6">
+        {recursos.length > 0 ? (
+          recursos.map((item) => (
+            <CardTool title={item.title} path={item.path} description={item.descripcion} url={item.url} />
+          ))
+        ) : (
+          <p>No hay recursos en esta categoría.</p>
+        )}
+     </main>
+  </body>
+</html>

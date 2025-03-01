@@ -1,0 +1,91 @@
+{
+    "Extensiones": [
+      {
+        "url": "https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb",
+        "title": "Responsive Viewer",
+        "descripcion": "Herramienta para probar la responsividad de páginas web"
+      },
+      {
+        "url": "https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode",
+        "title": "JSON Crack",
+        "descripcion": "Extensión de VSCode para visualizar JSON"
+      },
+      {
+        "url": "https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph",
+        "title": "Git Graph",
+        "descripcion": "Extensión de VSCode para visualizar repositorios Git"
+      },
+      {
+        "url": "https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es",
+        "title": "Lighthouse",
+        "descripcion": "Herramienta para auditorías de rendimiento web"
+      },
+      {
+        "url": "https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=es",
+        "title": "CSS Viewer",
+        "descripcion": "Extensión de Chrome para inspeccionar estilos CSS"
+      },
+      {
+        "url": "https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype",
+        "title": "QuickType",
+        "descripcion": "Generador de modelos TypeScript a partir de JSON"
+      }
+    ],
+    "Herramientas": [
+      {
+        "url": "https://cssgridgenerator.io/",
+        "title": "CSS Grid Generator",
+        "descripcion": "CSS Grid Generator: una herramienta fácil de usar, diseñada para desarrolladores web, que permite crear cuadrículas CSS personalizables de manera sencilla para un desarrollo web fluido."
+      },
+      {
+        "url": "https://chartdb.io/",
+        "title": "ChartDB",
+        "descripcion": "Editor de diagramas de bases de datos gratuito y de código abierto, visualiza y diseña tu base de datos con una sola consulta. Herramienta para ayudarte a dibujar tus diagramas de relaciones de bases de datos y exportar scripts DDL."
+      },
+      {
+        "url": "https://shots.so/",
+        "title": "Shots.so",
+        "descripcion": "Herramienta para capturas de pantalla estilizadas"
+      },
+      {
+        "url": "https://github.com/microsoft/markitdown",
+        "title": "Mark It Down",
+        "descripcion": "MarkItDown es una herramienta para convertir varios tipos de archivos a Markdown."
+      },
+      {
+        "url": "https://transform.tools/",
+        "title": "Transform Tools",
+        "descripcion": "Un conversor web multilingüe."
+      },
+      {
+        "url": "https://www.projectwallace.com/css-code-quality",
+        "title": "Project Wallace",
+        "descripcion": "Herramienta de análisis de calidad de código CSS"
+      },
+      {
+        "url": "https://android-arsenal.com/",
+        "title": "Android Arsenal",
+        "descripcion": "Colección de librerías para desarrollo en Android"
+      }
+    ],
+    "APIs": [
+      {
+        "url": "https://publicapis.dev/",
+        "title": "Public APIs",
+        "descripcion": "Directorio de APIs públicas"
+      }
+    ],
+    "Documentación": [
+      {
+        "url": "https://devdocs.io/",
+        "title": "DevDocs",
+        "descripcion": "Plataforma de documentación para desarrolladores"
+      },
+      {
+        "url": "https://www.youtube.com/@OpenBootcamp",
+        "title": "OpenBootcamp",
+        "descripcion": "Canal de YouTube con cursos de programación"
+      }
+    ]
+  }
+  
