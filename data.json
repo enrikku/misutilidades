@@ -66,6 +66,11 @@
         "url": "https://android-arsenal.com/",
         "title": "Android Arsenal",
         "descripcion": "Colección de librerías para desarrollo en Android"
+      },
+      {
+        "url": "https://readme.so/es",
+        "title": "Readme SO",
+        "descripcion": "Herremienta para la creación de README.md"
       }
     ],
     "APIs": [
