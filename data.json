@@ -71,6 +71,11 @@
         "url": "https://readme.so/es",
         "title": "Readme SO",
         "descripcion": "Herremienta para la creación de README.md"
+      },
+      {
+        "url": "https://tremor.so/",
+        "title": "Tremor",
+        "descripcion": "Biblioteca para graficos"
       }
     ],
     "APIs": [
